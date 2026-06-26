@@ -796,3 +796,16 @@ html:not(.mode-teacher) .js .teacher-only {
         padding-top: 40px;
     }
 }
+.cabecera{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.cabecera img{
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
